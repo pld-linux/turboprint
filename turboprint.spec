@@ -21,7 +21,7 @@ interpreter for Postscript) thus achieving easy integration and
 maximum compatibility with existing applications.
 
 %description -l pl
-TurboPrint jest wysokiej jako¶ci systemem sterowników dla Linuxa,
+TurboPrint jest wysokiej jako¶ci systemem sterowników dla Linuksa,
 opartym na istniej±cych standardach (lpr albo kolejkowanie przez
 CUPS, ghostscript dla Postscriptu). Jest wysoce integrowalny z tymi
 ¶rodowiskami.
