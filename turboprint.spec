@@ -12,7 +12,6 @@ BuildRequires:	cups
 BuildRequires:	ghostscript
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
-%define		_prefix		/usr/X11R6
 
 %description
 TurboPrint is a high-quality printer driver system for Linux built on
