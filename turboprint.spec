@@ -1,5 +1,5 @@
 Summary:	Turboprint printers menager
-Summary(pl):	Menad?er drukarek Turboprint
+Summary(pl):	Menad¿er drukarek Turboprint
 Name:		turboprint
 Version:	1.62
 Release:	1
@@ -15,15 +15,16 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %define		_prefix		/usr/X11R6
 
 %description
-TurboPrint is a high-quality printer driver system for Linux built on existing 
-standards (lpr or CUPS printer spooler, ghostscript interpreter for Postscript) 
-thus achieving easy integration and maximum compatibility with existing 
-applications.
+TurboPrint is a high-quality printer driver system for Linux built on
+existing standards (lpr or CUPS printer spooler, ghostscript
+interpreter for Postscript) thus achieving easy integration and
+maximum compatibility with existing applications.
 
 %description -l pl
-TurboPrint jest wysokiej jako?ci systemem sterowników dla Linuxa, opartego na 
-istniej?cych standardach (lpr albo kolejkowanie przez CUPS, ghostscript dla 
-Postscript'a). Jest wysoce integrowalny z tymi ?rodowiskami.
+TurboPrint jest wysokiej jako¶ci systemem sterowników dla Linuxa,
+opartego na istniej±cych standardach (lpr albo kolejkowanie przez
+CUPS, ghostscript dla Postscript'a). Jest wysoce integrowalny z tymi
+¶rodowiskami.
 
 %prep
 %setup -q
