@@ -3,7 +3,7 @@ Summary(pl):	Menad¿er drukarek Turboprint
 Name:		turboprint
 Version:	1.62
 Release:	1
-License:	Commercial
+License:	Commercial, not distributable
 Group:		Applications/Printing
 Source0:	http://www.turboprint.de/%name-%version.tgz
 Source1:	%{name}.desktop
@@ -28,7 +28,6 @@ CUPS, ghostscript dla Postscript'a). Jest wysoce integrowalny z tymi
 
 %prep
 %setup -q
-
 
 %build
 ./setup
