@@ -23,7 +23,7 @@ maximum compatibility with existing applications.
 %description -l pl
 TurboPrint jest wysokiej jako¶ci systemem sterowników dla Linuxa,
 opartym na istniej±cych standardach (lpr albo kolejkowanie przez
-CUPS, ghostscript dla Postscript'a). Jest wysoce integrowalny z tymi
+CUPS, ghostscript dla Postscriptu). Jest wysoce integrowalny z tymi
 ¶rodowiskami.
 
 %prep
@@ -49,7 +49,9 @@ rm -rf $RPM_BUILD_ROOT
 %defattr(644,root,root,755)
 %doc AUTHORS ChangeLog README TODO
 %attr(644,root,root) %{_bindir}/*
+%dir %{_datadir}/%{name}
 %dir %{_datadir}/%{name}/colors
 %dir %{_datadir}/%{name}/doc
+%dir %{_libdir}/%{name}
 %dir %{_libdir}/%{name}/lib
 %{_applnkdir}/Aplications/Printing/%{name}.desktop
