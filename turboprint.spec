@@ -1,5 +1,5 @@
 Summary:	Turboprint printers menager
-Summary(pl):	Menad¿er drukarek Turboprint
+Summary(pl):	Zarz±dca drukarek Turboprint
 Name:		turboprint
 Version:	1.62
 Release:	1
@@ -22,7 +22,7 @@ maximum compatibility with existing applications.
 
 %description -l pl
 TurboPrint jest wysokiej jako¶ci systemem sterowników dla Linuxa,
-opartego na istniej±cych standardach (lpr albo kolejkowanie przez
+opartym na istniej±cych standardach (lpr albo kolejkowanie przez
 CUPS, ghostscript dla Postscript'a). Jest wysoce integrowalny z tymi
 ¶rodowiskami.
 
