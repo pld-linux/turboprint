@@ -5,7 +5,7 @@ Version:	1.62
 Release:	1
 License:	Commercial, not distributable
 Group:		Applications/Printing
-Source0:	http://www.turboprint.de/%name-%version.tgz
+Source0:	http://www.turboprint.de/%{name}-%{version}.tgz
 # Source0-md5:	a1f0e57f9b424d9da104c36a0ab59861
 Source1:	%{name}.desktop
 URL:		http://www.turboprint.de
