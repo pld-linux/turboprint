@@ -3,6 +3,6 @@ Name=Turboprint
 Comment=Printers menager Turboprint
 Comment[pl]=Menad?er drukarek Turboprintl
 Exec=turboprint
-Terminal=0
+Terminal=false
 Type=Application
 # vi: encoding=utf-8
