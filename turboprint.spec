@@ -1,5 +1,5 @@
 Summary:	Turboprint printers menager
-Summary(pl.UTF-8):   Zarządca drukarek Turboprint
+Summary(pl.UTF-8):	Zarządca drukarek Turboprint
 Name:		turboprint
 Version:	1.62
 Release:	1
