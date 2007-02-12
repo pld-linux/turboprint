@@ -1,5 +1,5 @@
 Summary:	Turboprint printers menager
-Summary(pl):	Zarz±dca drukarek Turboprint
+Summary(pl.UTF-8):   ZarzÄ…dca drukarek Turboprint
 Name:		turboprint
 Version:	1.62
 Release:	1
@@ -20,11 +20,11 @@ existing standards (lpr or CUPS printer spooler, ghostscript
 interpreter for Postscript) thus achieving easy integration and
 maximum compatibility with existing applications.
 
-%description -l pl
-TurboPrint jest wysokiej jako¶ci systemem sterowników dla Linuksa,
-opartym na istniej±cych standardach (lpr albo kolejkowanie przez
+%description -l pl.UTF-8
+TurboPrint jest wysokiej jakoÅ›ci systemem sterownikÃ³w dla Linuksa,
+opartym na istniejÄ…cych standardach (lpr albo kolejkowanie przez
 CUPS, ghostscript dla Postscriptu). Jest wysoce integrowalny z tymi
-¶rodowiskami.
+Å›rodowiskami.
 
 %prep
 %setup -q
